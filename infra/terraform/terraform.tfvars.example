@@ -1,0 +1,4 @@
+project_id = "your-project-id"
+region = "asia-south1"
+image_uri = "asia-south1-docker.pkg.dev/your-project-id/fieldlens/fieldlens-api:latest"
+allow_unauthenticated = false
