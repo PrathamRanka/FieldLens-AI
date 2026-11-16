@@ -4,7 +4,6 @@
 
 FieldLens ingests internal documents, retrieves relevant passages from PostgreSQL/pgvector, answers with citations using Gemini on Vertex AI, and routes complex requests through a LangGraph workflow. It includes a read-only NL-to-SQL path, approval-gated actions, request-level observability, evaluation scripts, and a Next.js interface.
 
-> This is a portfolio-grade reference implementation. You must deploy it, run the evaluation suite, and collect your own measurements before making performance or production-readiness claims.
 
 ## Architecture
 
